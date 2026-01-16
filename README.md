@@ -1,5 +1,5 @@
 # 💫 About Me:
-train booking website<br>an any AI projects<br>Any experienced<br>Artificial Intelligence and Machine Learning<br>Real life projects<br>Stil learning
+Currently working on a Train booking website<br>WAnts to work on any AI projects<br>Wants to Gain Experience<br>Artificial Intelligence and Machine Learning<br>Real life projects<br>Stil learning
 
 
 ## 🌐 Socials:
