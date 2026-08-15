@@ -383,6 +383,7 @@ srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-sn
 src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
 </picture>
 </p>
+![snake gif](https://github.com/amanvish26-ai/amanvish26-ai/blob/output/github-contribution-grid-snake.svg)
 <!--
 **amanvish26-ai/amanvish26-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
