@@ -373,7 +373,16 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%"/>
 
 </div>
-
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+</picture>
+</p>
 <!--
 **amanvish26-ai/amanvish26-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
